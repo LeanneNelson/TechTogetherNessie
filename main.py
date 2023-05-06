@@ -1,3 +1,5 @@
+# RUN WITH streamlit run main.py
+
 import streamlit as st
 import requests
 import json
